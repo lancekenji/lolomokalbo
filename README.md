@@ -1,5 +1,5 @@
 # lolomokalbo
-from my old persona. 
+from my old persona. this script is for educational purpose only.
 
 
 # PAST README CONTENT:
